@@ -12,172 +12,66 @@
 
 # What I've learned in ALX-SE Program 💞️💞️💞️
 
-## First Trimester
+### 🎓 ALX Software Engineering Program – Curriculum Overview
 
-### **Intro to:**
-- **Emacs**  
-- **Vim**  
-- **Git/Github**
+#### 📘 First Trimester
 
-### **C Programming:**
-- Basics  
-- Functions  
-- Pointers  
-- Data Structures  
-- Singly Linked Lists  
-- Arrays  
-- Bit Manipulation  
-- Variadic Functions  
-- Memory Management  
-- File Redirection  
-- `printf`  
-- Shell  
-- Compilation  
-- Heap/Stack
-
-### **Linux:**
-- Basics  
-- Permissions  
-- Redirections  
-- Syscalls  
-- Static Libraries
-
-### **Social Media and Communication Skills:**
-- Public Speaking / Standups
+| Category               | Topics                                                                 |
+|------------------------|------------------------------------------------------------------------|
+| **Tools**              | Emacs, Vim, Git/GitHub                                                 |
+| **C Programming**      | Basics, Functions, Pointers, Data Structures, Arrays, Bit Manipulation, Variadic Functions, Memory, `printf`, Compilation, File Redirection |
+| **Linux**              | Basics, Permissions, Redirections, Syscalls, Static Libraries          |
+| **Other**              | Public Speaking, Standups                                              |
 
 ---
 
-## Second Trimester
+#### 📗 Second Trimester
 
-### **Python:**
-- Basics  
-- Object-Oriented Programming  
-- Interpreted Languages  
-- Test-Driven Development  
-- Error Handling  
-- I/O  
-- Web Scraping  
-
-### **C Programming:**
-- Data Structures  
-  - Stacks/Queues  
-  - Doubly Linked Lists  
-  - Hash Tables  
-  - Binary Trees  
-- Algorithms  
-  - Sorting  
-  - Big O  
-  - Dynamic Libraries
-
-### **Linux:**
-- Processes and Signals  
-- Scripting  
-- Command Line
-
-### **Databases:**
-- SQL  
-- MySQL  
-
-### **Systems Engineering:**
-- Open Systems Interconnection Model  
-- TCP/IP  
-
-### **Airbnb Project**
-
-### **Web Development:**
-- HTML  
-- CSS  
-- JSON  
-- Unit Testing  
+| Category               | Topics                                                                 |
+|------------------------|------------------------------------------------------------------------|
+| **Python**             | Basics, OOP, TDD, Error Handling, I/O, Web Scraping                    |
+| **C (Advanced)**       | Stacks, Queues, Doubly Linked Lists, Hash Tables, Binary Trees, Sorting, Big O, Dynamic Libraries |
+| **Linux**              | Processes, Signals, Scripting, CLI                                     |
+| **Databases**          | SQL, MySQL                                                             |
+| **Systems Engineering**| OSI Model, TCP/IP                                                      |
+| **Web Dev**            | HTML, CSS, JSON, Unit Testing                                          |
+| **Projects**           | Airbnb (Part 1)                                                        |
 
 ---
 
-## Third Trimester
+#### 📕 Third Trimester
 
-### **Systems Engineering / DevOps:**
-- SSH  
-- SSL/TLS  
-- HTTP/S  
-- Webstack Debugging  
-- Servers  
-  - Web Servers (Nginx)  
-  - Application Servers (Gunicorn)  
-- Configuration Management (Puppet)  
-- Load Balancers  
-- Postmortems  
-
-### **Networking and Monitoring**
-
-### **C Programming:**
-- Algorithms (Searching)  
-
-### **Airbnb Project**
-
-### **Web Development:**
-- JavaScript  
-- jQuery  
-- Deployment  
-- APIs  
-- Flask  
-- Hack Days  
-
-### **Python:**
-- ORMs (SQLAlchemy)  
-- Templating (Jinja2)  
-- Code Debugging  
-- Regexes  
+| Category               | Topics                                                                 |
+|------------------------|------------------------------------------------------------------------|
+| **DevOps**             | SSH, SSL/TLS, HTTP/S, Debugging, Nginx, Gunicorn, Puppet, Load Balancers, Postmortems |
+| **Networking**         | Networking, Monitoring                                                 |
+| **C Programming**      | Search Algorithms                                                      |
+| **Python (Web)**       | SQLAlchemy, Jinja2, Regex, Debugging                                   |
+| **JavaScript**         | JS, jQuery, APIs, Deployment                                           |
+| **Projects**           | Airbnb (Part 2), Hack Days, Flask                                      |
 
 ---
 
-## All Three Trimesters
+#### 🎯 Specialization: Back-end
 
-- Technical Writing  
-- Recursion  
-- Collaboration  
-- The Framework  
-- Whiteboarding  
-- Mock Interviews  
-- Time Management
-
----
-
-## Back-end Specialization
-
-### **Modern JavaScript:**
-- ES6  
-- TypeScript  
-- Node.js (Basic)  
-- Unittests  
-
-### **Python:**
-- Variable Annotations  
-- Async  
-- Unittests and Integration Tests  
-
-### **Storage:**
-- Advanced MySQL  
-- NoSQL  
-- Redis  
-
-### **Back-end Development:**
-- Pagination  
-- Caching  
-- i18n  
-- Queuing System in JS  
-- User Data  
-  - Personal Data  
-  - Authentication (Basic & Session)  
-  - User Authentication  
-
-### **Portfolio Project**
+| Category             | Topics                                                                  |
+|----------------------|-------------------------------------------------------------------------|
+| **Modern JavaScript**| ES6, TypeScript, Node.js (Basic), Unit Testing                          |
+| **Python Advanced**  | Async, Variable Annotations, Tests (Unit & Integration)                 |
+| **Storage**          | Advanced MySQL, Redis, NoSQL                                            |
+| **Backend Concepts** | Pagination, Caching, i18n, Queuing (JS), Auth (Basic/Session/User Data) |
+| **Final Project**    | Portfolio Project                                                       |
 
 ---
 
-## Soft Skills & Interview Preparation
+#### 💼 Soft Skills (All Trimesters)
 
-- Technical Writing  
-- Collaboration  
-- The Framework  
-- Whiteboarding  
-- Time Management  
-- Interview Algorithm Practice
+| Skills                       |
+|-----------------------------|
+| Technical Writing           |
+| Collaboration & Standups    |
+| Mock Interviews             |
+| Recursion                   |
+| Whiteboarding               |
+| Time Management             |
+| "The Framework" Practice    |
