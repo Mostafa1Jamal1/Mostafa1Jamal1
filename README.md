@@ -1,14 +1,14 @@
 # Mostafa Jamal
 
-- 👋 Hi, I’m @Mostafa1Jamal1
-- 🤓 I'm a lazy geek who loves making an effort to make things easier.
+- 👋 Hi, I’m @Mostafa1Jamal1.
+- 🤓 I'm a geek who loves making an effort to make things easier.
 - 👀 I’m interested in learning, always.
-- 🌱 I’m currently learning in the **ALX-SE Program** specializing in **Back-end** development.
-- 💞️ I’m looking to collaborate on ... not yet 🤦
+- 🌱 I’m currently expanding my knowledge and skills while working a full time.
+- 💞️ I’m looking for opportunity to prove and improve my skills in software.
 - 📫 How to reach me:  
   [mostafa.jamal.mjm@gmail.com](mailto:mostafa.jamal.mjm@gmail.com)
 
----
+---Graduated from the awesome **ALX-Software Engineering Program** specializing in **Back-end** development.
 
 # What I've learned in ALX-SE Program 💞️💞️💞️
 
